@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Florian and I'm interested in Smart Home, Smart Building, Open Source, DevOps, Container, IaC, SR, Cloud Native and many more</h2>
+<h2 align="left">Hi 👋! My name is Florian and I'm interested in Smart Home, Smart Building, Open Source, DevOps, Container, IaC, SRE, Cloud Native and many more</h2>
 
 ###
 
